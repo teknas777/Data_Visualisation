@@ -83,3 +83,8 @@ Google Play Store dataset
 Power BI DAX community for formula inspiration
 
 ---  
+
+## 📬 Contact
+For suggestions or queries, feel free to reach out via GitHub Issues or sanketalurkar5@gmail.com.
+
+---
