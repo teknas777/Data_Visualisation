@@ -1,2 +1,2 @@
 # Data_Visualisation
-Dashboard crreation with PowerBI
+Dashboard creation with PowerBI
